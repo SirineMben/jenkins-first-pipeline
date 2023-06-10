@@ -29,7 +29,8 @@ pipeline {
         stage('Modification') {
             steps {
                 echo "change test"
-    }
-}
+                }
+        }
+    
     }
 }
